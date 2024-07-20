@@ -1,4 +1,4 @@
-package com.educandoweb.course.servies;
+package com.educandoweb.course.services;
 
 import java.util.List;
 import java.util.Optional;

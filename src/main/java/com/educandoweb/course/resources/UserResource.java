@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.educandoweb.course.entities.User;
-import com.educandoweb.course.servies.UserService;
+import com.educandoweb.course.services.UserService;
 
 @RestController
 @RequestMapping(value = "/users")
